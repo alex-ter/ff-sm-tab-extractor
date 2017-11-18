@@ -1,0 +1,6 @@
+This script extracts and displays tab URLs
+from a Firefox Session Manager add-on file (backup.session and alike).
+
+Also optionally opens them in your default browser, as separate tabs/windows.
+
+Use '--help' command-line option to see all details.
