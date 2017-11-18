@@ -4,3 +4,6 @@ from a Firefox Session Manager add-on file (backup.session and alike).
 Also optionally opens them in your default browser, as separate tabs/windows.
 
 Use '--help' command-line option to see all details.
+
+Tested on Windows, but should work on Linux as-is.
+Feel free to report problems or send patches if it doesn't.
